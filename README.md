@@ -12,7 +12,9 @@
 
 ## Usage
 
-To learn how to use My Online Store, click on the following link to see its walkthrough video: (https://one1-challenge-ud82.onrender.com/)
+For Usage click on the deploy here (https://one1-challenge-ud82.onrender.com/)
+
+To learn how to use My Online Store, click on the following link to see its walkthrough video: (https://drive.google.com/file/d/1FM3hidkMsEPHMwKN1k0_dnEu-hky-OOl/view?usp=sharing)
 
 ## **License**
 
